@@ -31,7 +31,6 @@ The dataset includes the following columns:
 Each of these factors contributes to the prediction of an employee’s salary. Categorical values were handled through encoding to make them suitable for machine learning algorithms.
 
 
-
 ## 📈 Results and Analysis
 
 The trained model performed reasonably well, with a good balance between simplicity and accuracy. The **Mean Absolute Error (MAE)** indicated how close the predictions were to the actual salaries, while the **R² score** showed how well the model explained the variation in salary values. On a small dataset, the model achieved around **65% accuracy**, which is considered acceptable for a basic Linear Regression model.
